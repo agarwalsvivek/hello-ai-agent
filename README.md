@@ -1,5 +1,7 @@
 # Hello World AI Agent ( This project is copied from https://github.com/tobalo/ai-agent-hello-world/blob/main/README.md)
 
+and https://blog.jedi-ops.dev/posts/exploring-ai-agents-for-reindustrialization/
+
 Build your first AI agent using Python! This project demonstrates how to create a simple conversational AI agent using modern tools and frameworks.
 
 ## Overview
