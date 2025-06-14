@@ -65,6 +65,9 @@ Before you begin, ensure you have the following installed:
 - [Python 3.10+](https://www.python.org/downloads/)
 - [uv](https://astral.sh/uv) - Modern Python package installer and environment manager
 - [ollama](https://ollama.com/download) - Local LLM provider
+- [duckduckgo-search] Python library that lets you programmatically search the web using DuckDuckGo
+- [AI-agents] — Is a S/W programs that can think, reason, use tools (like web search or APIs), and collaborate with other agents.
+- [AI-agents-example] - Phidata/Agno are open-source frameworks for building intelligent
 - Your favorite text editor (Vim, VSCode, Notepad++, Windsurf, Cursor, etc)
 
 Then run:
